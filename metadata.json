@@ -1,0 +1,6 @@
+{
+  "name": "Sanatana Marg - Vedic Rituals, Havan Guide & Temple Companion",
+  "description": "Comprehensive Hindu spiritual companion with step-by-step Quick & Vedic Havan guides, real-time Panchang rituals, chant audio & Tanpura drone, temple locator, and scriptural teachings.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
